@@ -1,4 +1,4 @@
-<!--![Header](https://github.com/mohd-sajeed/mohd-Sajeed/blob/master/github-header-image.png)
+![Header](https://github.com/mohd-sajeed/mohd-Sajeed/blob/master/github-header-image.png)
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset=https://github.com/mohd-sajeed/mohd-Sajeed/blob/master/github-header-image.png>
