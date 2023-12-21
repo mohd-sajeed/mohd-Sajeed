@@ -1,8 +1,8 @@
-![Header](https://github.com/mohd-sajeed/mohd-Sajeed/blob/master/github-header-image.png)
+<!--![Header](https://github.com/mohd-sajeed/mohd-Sajeed/blob/master/github-header-image.png)
 
-<!--<picture>
+<picture>
  <source media="(prefers-color-scheme: dark)" srcset=https://github.com/mohd-sajeed/mohd-Sajeed/blob/master/github-header-image.png>
- <img alt="YOUR-ALT-TEXT" src=https://github.com/mohd-sajeed/mohd-Sajeed/blob/master/github-header-image.png>
+ <img alt=Aspiring Full-Stack Developer src=https://github.com/mohd-sajeed/mohd-Sajeed/blob/master/github-header-image.png>
 </picture>
 
 ### Hi there 👋
