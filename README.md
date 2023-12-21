@@ -1,8 +1,8 @@
 ![Header](./[github-header-image.png])
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset=("https://github.com/mohd-sajeed/mohd-Sajeed/blob/master/github-header-image.png")>
- <img alt="YOUR-ALT-TEXT" src=("https://github.com/mohd-sajeed/mohd-Sajeed/blob/master/github-header-image.png")>
+ <source media="(prefers-color-scheme: dark)" srcset=https://github.com/mohd-sajeed/mohd-Sajeed/blob/master/github-header-image.png>
+ <img alt="YOUR-ALT-TEXT" src=https://github.com/mohd-sajeed/mohd-Sajeed/blob/master/github-header-image.png>
 </picture>
 
 ### Hi there 👋
