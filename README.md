@@ -19,7 +19,8 @@
 - 🌱 I am currently learning Nodejs 
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About Web development and Web Technolgies.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohdsajeed871@gmail.com)](mailto:mohdsajeed871@gmail.com) 
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohdsajeed871@gmail.com)](mailto:mohdsajeed871@gmail.com)
+- [![LinkedIn Badge][https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://in.linkedin.com/in/mohd-sajeed-939a001bb]
 - ⚡ Fun fact: I love to do online surveys
 - Profile views: ![](https://komarev.com/ghpvc/?username=mohd-sajeed)
 
@@ -48,6 +49,8 @@
  <a href="https://redux.js.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="express" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="express" width="40" height="40"/> </a> 
  <a href="https://aws.amazon.com/what-is-aws/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="express" width="40" height="40"/> </a>  
+  <a href="https://github.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="express" width="40" height="40"/> </a>  
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="express" width="40" height="40"/> </a> 
   <a href="https://jquery.com" target="_blank"> <img src="https://img.icons8.com/ios/jquery.png" alt="jquery" width="40" height="40"/> </a> 
 </p>
 
