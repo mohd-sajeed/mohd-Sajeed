@@ -20,9 +20,10 @@
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About Web development and Web Technolgies.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohdsajeed871@gmail.com)](mailto:mohdsajeed871@gmail.com)
-- [![LinkedIn Badge][https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://in.linkedin.com/in/mohd-sajeed-939a001bb]
+- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/mohd-sajeed-939a001bb)
 - ⚡ Fun fact: I love to do online surveys
 - Profile views: ![](https://komarev.com/ghpvc/?username=mohd-sajeed)
+
 
 <br>
 <h2>📊 Github Stats</h2>
