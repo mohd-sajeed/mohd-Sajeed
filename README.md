@@ -45,6 +45,9 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
+ <a href="https://redux.js.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="express" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="express" width="40" height="40"/> </a> 
+ <a href="https://aws.amazon.com/what-is-aws/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="express" width="40" height="40"/> </a>  
   <a href="https://jquery.com" target="_blank"> <img src="https://img.icons8.com/ios/jquery.png" alt="jquery" width="40" height="40"/> </a> 
 </p>
 
