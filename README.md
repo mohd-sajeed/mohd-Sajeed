@@ -1,5 +1,12 @@
 ### Hi there, I'm Mohd Sajeed👋 
-<p align="center"><img src="https://raw.githubusercontent.com/mohd-sajeed/mohd-Sajeed/master/github-header-image.png"></p>
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohd-sajeed/mohd-Sajeed/master/github-header-image.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohd-sajeed/mohd-Sajeed/master/github-header-image.png">
+ <img alt="Aspiring FullStack Developer" src="https://raw.githubusercontent.com/mohd-sajeed/mohd-Sajeed/master/github-header-image.png">
+</picture>
+
+
 
 
 
