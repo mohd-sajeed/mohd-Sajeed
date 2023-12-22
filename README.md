@@ -16,7 +16,7 @@
 
 
 - 🔭 I am honing my dev and Java skills.
-- 🌱 I am currently learning Nodejs 
+- 🌱 I am currently learning Nodejs/Express 
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About Web development and Web Technolgies.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohdsajeed871@gmail.com)](mailto:mohdsajeed871@gmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/mohd-sajeed-939a001bb)
