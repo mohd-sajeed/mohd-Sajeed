@@ -1,5 +1,5 @@
 ### Hi there, I'm Mohd Sajeed👋 
-<p align="center"><img src="https://github.com/mohd-sajeed/mohd-Sajeed/blob/master/github-header-image.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mohd-sajeed/mohd-Sajeed/master/github-header-image.png"></p>
 
 
 
