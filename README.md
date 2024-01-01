@@ -27,7 +27,7 @@
 <br>
 <h2>📊 Github Stats</h2>
 
-![Mohd Sajeed's github stats](https://camo.githubusercontent.com/5a31768e76f1911cf858252acb7525af703a6f95d25e220ffc5d5d98545fa446/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d6f68642d73616a656564267468656d653d6f6e656461726b)
+![Mohd Sajeed's github stats](https://github-readme-stats.vercel.app/api?username=mohd-Sajeed&theme=onedark)
 
 <br>
 
